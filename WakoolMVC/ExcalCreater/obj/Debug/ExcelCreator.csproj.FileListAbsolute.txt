@@ -1,0 +1,83 @@
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+E:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+F:\Entra21\aula70\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.CoreCompileInputs.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+C:\Users\Lucas\Desktop\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.CoreCompileInputs.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll.config
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\bin\Debug\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\obj\Debug\ExcelCreator.csproj.ResolveComReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\ExcalCreater\obj\Debug\Excelexport.pdb

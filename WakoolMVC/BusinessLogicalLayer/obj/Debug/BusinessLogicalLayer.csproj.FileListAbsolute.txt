@@ -1,0 +1,374 @@
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+G:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\97235\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+F:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\Entity.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\IPL.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\Entity.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\IPL.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+F:\WakoolMVC 18.09.2017\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+F:\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+F:\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+F:\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+F:\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+F:\Wakool\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+E:\Entra21\aula70\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\BusinessLogicalLayer\obj\Debug\BusinessLogicalLayer.pdb

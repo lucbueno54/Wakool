@@ -1,0 +1,314 @@
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\bin\Debug\Entity.dll
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\bin\Debug\Entity.pdb
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+c:\users\moc\documents\visual studio 2013\Projects\Wakool\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVCV2\WakoolMVC\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\WakoolMVC\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+G:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+F:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\97235\Desktop\WakoolMVC - Copia\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\Entity.dll
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\Excelexport.dll
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\Entity.pdb
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\Excelexport.pdb
+F:\WakoolMVC 18.09.2017\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+F:\WakoolMVC 18.09.2017\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+F:\WakoolMVC 18.09.2017\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+F:\WakoolMVC 18.09.2017\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+F:\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+F:\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+F:\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+F:\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+F:\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+F:\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+F:\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+F:\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+F:\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+F:\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+F:\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+F:\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+F:\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+F:\Wakool\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csproj.CoreCompileInputs.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csproj.CoreCompileInputs.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll.config
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\MetadataDiscover\obj\Debug\MetadataDiscover.pdb

@@ -1,0 +1,291 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="~/Content/favicon.png">
+    <title>Wakool.NET</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/chartist.min.css" rel="stylesheet" />
+    <link href="~/Content/chartist-init.css" rel="stylesheet" />
+    <link href="~/Content/chartist-plugin-tooltip.css" rel="stylesheet" />
+    <link href="~/Content/c3.min.css" rel="stylesheet" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Content/blue.css" rel="stylesheet" />
+
+
+    <link href="~/Content/animate.css" rel="stylesheet" />
+    <link href="~/Content/spinners.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body class="fix-header fix-sidebar card-no-border">
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+    <div class="preloader">
+        <svg class="circular" viewBox="25 25 50 50">
+            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+        </svg>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        <header class="topbar">
+            <nav class="navbar top-navbar navbar-toggleable-sm navbar-light">
+                <!-- ============================================================== -->
+                <!-- Logo -->
+                <!-- ============================================================== -->
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="@Url.Action("Index", "Home", new { entity = ""})">
+                        <!-- Logo icon --><b>
+                            <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
+                            <!-- Light Logo icon -->
+                            <img src="~/Images/logo-light-icon.png" alt="homepage" class="light-logo" />
+                        </b>
+                        <!--End Logo icon -->
+                        <!-- Logo text --><span>
+
+                            <!-- Light Logo text -->
+                            <img class="light-logo" alt="Wakool.NET" />
+                        </span>
+                    </a>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Logo -->
+                <!-- ============================================================== -->
+                <div class="navbar-collapse">
+                    <!-- ============================================================== -->
+                    <!-- toggle and nav items -->
+                    <!-- ============================================================== -->
+             
+                    <ul class="navbar-nav mr-auto mt-md-0">
+                        <!-- This is  -->
+                        <li class="nav-item"> <a class="nav-link nav-toggler hidden-md-up text-muted waves-effect waves-dark" href="javascript:void(0)"><i class="mdi mdi-menu"></i></a> </li>
+                        <!-- ============================================================== -->
+                        <!-- Search -->
+                        <!-- ============================================================== -->
+                        <li type="hidden" class="nav-item hidden-sm-down search-box">
+                            <a type="hidden" class="nav-link hidden-sm-down text-muted waves-effect waves-dark" href="javascript:void(0)"><i class="ti-search"></i></a>
+                            <form class="app-search">
+                                <input type="text" class="form-control" placeholder="Search & enter"> <a class="srh-btn"><i class="ti-close"></i></a>
+                            </form>
+                        </li>
+                    </ul>
+                    <!-- ============================================================== -->
+                    <!-- User profile and search -->
+                    <!-- ============================================================== -->
+                    <ul class="navbar-nav my-lg-0">
+                        <!-- ============================================================== -->
+                        <!-- Profile -->
+                        <!-- ============================================================== -->
+
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!-- ============================================================== -->
+        <!-- End Topbar header -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <aside class="left-sidebar">
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar">
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav">
+                    <ul id="sidebarnav">
+                        @using MetadataDiscover;
+                        @foreach (Type tipo in MetadataDiscover.AssemblyUtils.GetEntities())
+                        {
+                            <li>
+                                <a class="waves-effect waves-dark" href="@Url.Action("Index", "Home", new { entity = MetadataDiscover.AssemblyUtils.GetEntityDisplayAttribute(tipo) })" aria-expanded="false">
+                                    <i class="@tipo.GetEntityIcon() "></i><span class="hide-menu">@MetadataDiscover.AssemblyUtils.GetEntityDisplayAttribute(tipo)</span></a>
+                            
+                            </li>
+                        }
+                    </ul>
+                    <div class="text-center m-t-30">
+                    </div>
+                </nav>
+                <!-- End Sidebar navigation   mdi mdi-gauge  mdi mdi-book-open-variant -->
+            </div>
+            <!-- End Sidebar scroll-->
+            <!-- Bottom points-->
+           @* <div class="sidebar-footer">
+                <!-- item <a href="" class="link" data-toggle="tooltip" title="Settings"><i class="ti-settings"></i></a> -->
+                <item <a href="" class="link" data-toggle="tooltip" title="Email"><i class="mdi mdi-gmail"></i></a> 
+                <!-- item <a href="" class="link" data-toggle="tooltip" title="Logout"><i class="mdi mdi-power"></i></a> -->
+            </div>
+               *@
+            <!-- End Bottom points-->
+        </aside>
+        <!-- ============================================================== -->
+        <!-- End Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Page wrapper  -->
+        <!-- ============================================================== -->
+        <div class="page-wrapper">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <!--<div class="container-fluid"> -->
+            <!-- ============================================================== -->
+            <!-- Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!--  <div class="row page-titles"> -->
+            <!--     <div class="col-md-5 col-8 align-self-center">
+                     <h3 class="text-themecolor">Dashboard</h3>
+                     <ol class="breadcrumb">
+                         <li class="breadcrumb-item"><a href="javascript:void(0)">Home</a></li>
+                         <li class="breadcrumb-item active">Dashboard</li>
+                     </ol>
+                 </div>
+                 <div class="col-md-7 col-4 align-self-center">
+                     <a href="https://wrappixel.com/templates/materialpro/" class="btn waves-effect waves-light btn-danger pull-right hidden-sm-down"> Upgrade to Pro</a>
+                 </div>
+             </div>
+             <!-- ============================================================== -->
+            <!-- End Bread crumb and right sidebar toggle -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- Start Page Content -->
+            <!-- ============================================================== -->
+            <!-- Row -->
+            <!---->
+            <!-- Row -->
+            <!-- Row -->
+            @RenderBody()
+            <!-- ============================================================== -->
+            <!-- End PAge Content -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Container fluid  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- footer -->
+        <!-- ============================================================== -->
+        <footer class="footer"> • 2017 Wakool </footer>
+        <!-- ============================================================== -->
+        <!-- End footer -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Page wrapper  -->
+    <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+
+    <script src="~/Scripts/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+
+    <script src="~/Scripts/tether.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="~/Scripts/jquery.slimscroll.js"></script>
+
+    <!--Wave Effects -->
+    <script src="~/Scripts/waves.js"></script>
+
+    <!--Menu sidebar -->
+    <script src="~/Scripts/sidebarmenu.js"></script>
+
+    <!--stickey kit -->
+    <script src="~/Scripts/sticky-kit.min.js"></script>
+
+    <!--Custom JavaScript -->
+    <script src="~/Scripts/custom.min.js"></script>
+
+    <!-- ============================================================== -->
+    <!-- This page plugins -->
+    <!-- ============================================================== -->
+    <!-- chartist chart -->
+    <script src="~/Scripts/chartist.min.js"></script>
+
+    <script src="~/Scripts/chartist-plugin-tooltip.min.js"></script>
+    <!--c3 JavaScript -->
+    <script src="~/Scripts/d3.min.js"></script>
+
+    <script src="~/Scripts/c3.min.js"></script>
+
+    <!-- Chart JS -->
+    <script src="~/Scripts/dashboard1.js"></script>
+
+    <script src="~/Scripts/jquery.mask.js"></script>
+    <script type="text/javascript">
+        function setTwoNumberDecimal(event) {
+           this.value = parseFloat(this.value).toFixed(2);
+        }
+    </script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+
+            var $seuCampoCpf = $("#CPF");
+            $seuCampoCpf.mask('000.000.000-00', { reverse: true });
+
+            $("#CPF").blur(function () {
+                var cpf = $('#CPF').val().replace(/[^0-9]/g, '').toString();
+
+                if (cpf.length == 11) {
+                    var v = [];
+
+                    //Calcula o primeiro dígito de verificação.
+                    v[0] = 1 * cpf[0] + 2 * cpf[1] + 3 * cpf[2];
+                    v[0] += 4 * cpf[3] + 5 * cpf[4] + 6 * cpf[5];
+                    v[0] += 7 * cpf[6] + 8 * cpf[7] + 9 * cpf[8];
+                    v[0] = v[0] % 11;
+                    v[0] = v[0] % 10;
+
+                    //Calcula o segundo dígito de verificação.
+                    v[1] = 1 * cpf[1] + 2 * cpf[2] + 3 * cpf[3];
+                    v[1] += 4 * cpf[4] + 5 * cpf[5] + 6 * cpf[6];
+                    v[1] += 7 * cpf[7] + 8 * cpf[8] + 9 * v[0];
+                    v[1] = v[1] % 11;
+                    v[1] = v[1] % 10;
+
+                    //Retorna Verdadeiro se os dígitos de verificação são os esperados.
+                    if ((v[0] != cpf[9]) || (v[1] != cpf[10])) {
+                        alert('CPF inválido: ' + cpf);
+                    }
+                }
+                else {
+                    alert('CPF inválido:');
+                }
+            });
+        });
+
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csproj.CoreCompileInputs.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControl.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb

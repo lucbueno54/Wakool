@@ -1,0 +1,247 @@
+﻿@model Type
+@using MetadataDiscover;
+@using BusinessLogicalLayer;
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+
+    <!-- form -->
+    @if (Model != null)
+    {
+
+        <div class="col-lg-12 col-xlg-9 col-md-7">
+            <div class="card">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs profile-tab" role="tablist">
+                    <li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#profile" role="tab" aria-expanded="false">Dados</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#settings" role="tab" aria-expanded="true">Cadastro</a> </li>
+                </ul>
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <!--second tab-->
+                    <div class="tab-pane active" id="profile" role="tabpanel" aria-expanded="true">
+                        <div class="card-block">
+                            <div class="card-block">
+                                <h4 class="card-title">Listagem de @MetadataDiscover.AssemblyUtils.GetEntityDisplayAttribute(Model)</h4>
+
+                                <div class="table-responsive dataTables_wrapper">
+
+                                    <div class="dt-buttons">
+                                        <a class="dt-button bu" href="@Url.Action("ReportWebMaker", "Home", new { entity = Model.Name, tipo = "EXCEL" })">
+                                            <span>Excel</span>
+                                        </a>
+                                        <a class="dt-button bu" href="@Url.Action("ReportWebMaker", "Home", new { entity = Model.Name, tipo = "PDF" })">
+                                            <span>PDF</span>
+                                        </a>
+                                    </div>
+
+
+
+
+                                    <table class="table ">
+
+                                     
+
+
+                                        <thead>
+                                            <tr>
+
+                                                @{
+        foreach (var item in Model.GetProperties())
+        {
+            if (item.Name.ToUpper() != "ID")
+            {
+                            <th class="footable-sortable">
+                                @MetadataDiscover.AssemblyUtils.GetPropertyDisplay(item)
+                                <span class="footable-sort-indicator"></span>
+                            </th>
+            }
+            else
+            {
+                            <th>#</th>
+
+            }
+
+        }
+
+                                                }
+
+                                            </tr>
+                                        </thead>
+
+                                        <tbody>
+                                            @{
+        object objTemp = Activator.CreateInstance(Model);
+        List<object> listItem = new EntityBLL().GetAll((Entity.EntityBase)objTemp, Model);
+
+        if (listItem != null && ((Entity.EntityBase)listItem[0]).ID > 0)
+        {
+            foreach (object itemlist in listItem)
+            {
+                            <tr>
+
+
+                                @{
+
+                foreach (System.Reflection.PropertyInfo item in itemlist.GetType().GetProperties())
+                {
+
+                    if (item.PropertyType != typeof(DateTime))
+                    {
+                            <td>
+                                @item.GetValue(itemlist)
+                            </td>
+                    }
+                    else
+                    {
+                            <td>
+                                <i class="fa fa-clock-o"></i>
+
+                                @((((DateTime)(item.GetValue(itemlist))).Date).ToString().Replace(" 00:00:00", ""))
+
+
+
+                            </td>
+
+    <!--<span class="text-muted"><i class="fa fa-clock-o"></i> Oct 16, 2017</span>-->
+
+
+
+                    }
+                    if (item.Name.ToUpper() == "ID")
+                    {
+                            <td>
+
+                                <a href="@Url.Action("edit", "Home", new { entity = Model.Name, id = item.GetValue(itemlist) }) " class="link" data-toggle="tooltip" title="Edit">
+                                    <i class="fa fa-pencil text-inverse m-r-10" i></i>
+                                </a>
+                                <a href="@Url.Action("delite", "Home", new { entity = Model.Name, id = item.GetValue(itemlist) }) " class="link" data-toggle="tooltip" title="Delete">
+                                    <i class="fa fa-close text-danger" i></i>
+                                </a>
+                                <!-- ti-settings -->
+                            </td>
+                    }
+                }}
+                            </tr>
+            }
+        }
+
+
+
+
+                                            }
+
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane" id="settings" role="tabpanel" aria-expanded="false">
+                        <div class="card-block">
+                            <form method="post" class="form-horizontal form-material">
+
+                                @if (Model != null)
+                                {
+                                    <input type="hidden" value="@Model.Name" name="EntityType" />
+                                    foreach (System.Reflection.PropertyInfo property in Model.GetProperties())
+                                    {
+                                        if (property.Name.ToUpper() != "ID")
+                                        {
+                                            string text = AssemblyUtils.GetPropertyDisplay(property);
+                                            if (property.PropertyType == typeof(string))
+                                            {
+                                                <div class="form-group">
+                                                    <label class="col-md-12">@text</label>
+                                                    <div class="col-md-12">
+                                                        <input id="@property.Name" name="@property.Name" @property.GetWebMinLength() @property.GetWebPattern()  @property.GetWebPattern() type="@property.GetWebStringType()" @property.GetWebMaxLength() class="form-control form-control-line">
+                                                    </div>
+                                                </div>
+                                            }
+                                            else
+                                                if (property.PropertyType == typeof(int) || property.PropertyType == typeof(double) || property.PropertyType == typeof(decimal))
+                                                {
+                                                    <div class="form-group">
+                                                        <label class="col-md-12">@text</label>
+                                                        <div class="col-md-12">
+                                                            <input id="@property.Name" name="@property.Name" @property.GetWebRequired() type="number" step="@(((property.PropertyType == typeof(double) || property.PropertyType == typeof(decimal)) ? 0.1 : 0.0).ToString().Replace(",", "."))" class="form-control form-control-line" value="0">
+
+                                                        </div>
+                                                    </div>
+                                                }
+                                                else if (property.PropertyType == typeof(DateTime))
+                                                {
+                                                    <div class="form-group">
+                                                        <label class="col-md-12">@text</label>
+                                                        <div class="col-md-12">
+                                                            <input id="@property.Name" name="@property.Name" @property.GetWebRequired() type="date" class="form-control form-control-line">
+                                                        </div>
+                                                    </div>
+                                                }
+                                                else if (property.PropertyType == typeof(Boolean))
+                                                {
+                                                    <div class="checkbox checkbox-info">
+
+                                                        <div class="col-md-12">
+                                                            <input id="@property.Name" name="@property.Name" type="checkbox" class="form-control form-control-line">
+                                                            <label for="inputForward" class="task-done">
+                                                                <span>@text</span>
+
+                                                            </label>
+
+                                                        </div>
+                                                    </div>
+                                                }
+                                                else if (property.PropertyType.IsEnum)
+                                                {
+                                                    <div class="form-group">
+                                                        <label style="color:transparent"></label>
+                                                        <label class="col-sm-12">@text</label>
+                                                        <div class="col-sm-12">
+                                                            <select id="@property.Name" name="@property.Name" class="form-control form-control-line">
+                                                                @for (int i = 0; i < Enum.GetValues(property.PropertyType).Length; i++)
+                                                                {
+                                                                    <option value="@i">@Enum.GetValues(property.PropertyType).GetValue(i)</option>
+                                                                }
+
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                }
+                                        }
+                                        else
+                                        {
+                                            <div class="form-group">
+                                                <div class="col-md-12">
+                                                    <input id="@property.Name" name="@property.Name" value="0" type="hidden" class="form-control form-control-line">
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+
+
+                                }
+
+
+                                <div class="form-group">
+                                    <div class="col-sm-12">
+                                        <button href="@Url.Action("index", "Home", new { entity = Model.Name }) " class="btn btn-success ">Cadastrar</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+ 
+
+
+
+
+</div>

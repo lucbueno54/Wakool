@@ -1,0 +1,37 @@
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.pdb
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.dll
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.pdb
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.dll
+F:\Entra21\aula70\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\obj\Debug\CustomDataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\WakoolMVC\DataAnnotationsCustom\obj\Debug\DataAnnotationsCustom.pdb

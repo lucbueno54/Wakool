@@ -1,0 +1,683 @@
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Guid.dll.config
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Guid.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Guid.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Entity.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Excelexport.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\MetadataDiscover.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Owin.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\PDFExport.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Razor.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\WebGrease.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\IPL.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\DataAccessLayer.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\itextsharp.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+E:\Entra21\aula70\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Entity.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Excelexport.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Excelexport.dll.config
+E:\Entra21\aula70\WakoolMVC\Guid\bin\PDFExport.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\PDFExport.dll.config
+E:\Entra21\aula70\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Razor.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\IPL.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\bin\itextsharp.xml
+E:\Entra21\aula70\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\Guid\obj\Debug\Guid.dll
+E:\Entra21\aula70\WakoolMVC\Guid\obj\Debug\Guid.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Guid.dll.config
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Guid.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Guid.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Entity.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Excelexport.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\MetadataDiscover.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Owin.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\PDFExport.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Razor.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\WebGrease.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\IPL.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\DataAccessLayer.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\itextsharp.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+F:\Entra21\aula70\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Entity.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Excelexport.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\PDFExport.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.Razor.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\IPL.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\bin\itextsharp.xml
+F:\Entra21\aula70\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+F:\Entra21\aula70\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\Guid\obj\Debug\Guid.dll
+F:\Entra21\aula70\WakoolMVC\Guid\obj\Debug\Guid.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Guid.dll.config
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Guid.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Guid.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Entity.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Owin.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\PDFExport.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Razor.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\WebGrease.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\IPL.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\itextsharp.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Entity.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\PDFExport.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.Razor.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\IPL.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\bin\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\obj\Debug\Guid.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\Guid\obj\Debug\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Guid.dll.config
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Guid.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Entity.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Owin.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\PDFExport.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Razor.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\WebGrease.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\IPL.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\itextsharp.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\PDFExport.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.Razor.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\bin\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\obj\Debug\Guid.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\Guid\obj\Debug\Guid.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Guid.dll.config
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Guid.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Guid.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Entity.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\EntityFramework.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Excelexport.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Owin.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\PDFExport.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Razor.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\WebGrease.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\IPL.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\DataAccessLayer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\itextsharp.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Entity.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Excelexport.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Excelexport.dll.config
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\PDFExport.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\PDFExport.dll.config
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.Razor.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\EntityFramework.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\IPL.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\bin\itextsharp.xml
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\obj\Debug\Guid.dll
+C:\Users\Lucas\Desktop\WakoolMVC\Guid\obj\Debug\Guid.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.dll.config
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Entity.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\MetadataDiscover.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Owin.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Razor.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\WebGrease.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\IPL.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAccessLayer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\itextsharp.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Entity.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.dll.config
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.dll.config
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Razor.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\IPL.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\itextsharp.xml
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\Guid.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.dll.config
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Razor.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\WebGrease.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\itextsharp.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Razor.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\Guid.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.dll.config
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Razor.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\WebGrease.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\itextsharp.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\PDFExport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.Razor.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\bin\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\Guid.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\Guid\obj\Debug\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Guid.dll.config
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Guid.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Guid.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Antlr3.Runtime.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\BusinessLogicalLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\EntityFramework.SqlServer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Excelexport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Newtonsoft.Json.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Owin.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\PDFExport.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Helpers.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Mvc.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Optimization.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Razor.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.WebPages.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\WebGrease.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\itextsharp.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\BusinessLogicalLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Excelexport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\PDFExport.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Helpers.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Mvc.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Optimization.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.Razor.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.WebPages.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\System.Web.WebPages.Razor.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Antlr3.Runtime.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Newtonsoft.Json.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\EntityFramework.SqlServer.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\bin\itextsharp.xml
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\obj\Debug\Guid.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\Guid\obj\Debug\Guid.pdb

@@ -1,0 +1,169 @@
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\IPL.dll
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\IPL.pdb
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\Entity.dll
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\Entity.pdb
+E:\Entra21\aula70\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\IPL\obj\Debug\IPL.dll
+E:\Entra21\aula70\WakoolMVC\IPL\obj\Debug\IPL.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\IPL.dll
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\IPL.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\Entity.dll
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\bin\Debug\Entity.pdb
+F:\Entra21\aula70\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\IPL\obj\Debug\IPL.dll
+F:\Entra21\aula70\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - ApocalypseV7\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Apresentação\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\lucas bueno\Desktop\Wakool - Shutdown Apocalypse\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\Lucas\Desktop\WakoolMVC\IPL\obj\Debug\IPL.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.pdb
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\Database.csproj.CoreCompileInputs.cache
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.dll
+E:\Entra21\aula70\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\Lucas\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta\WakoolMVC\IPL\obj\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\IPL.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\DataAccessLayer.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\MetadataDiscover.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\Entity.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\DataAccessLayer.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\DataAnnotationsCustom.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\MetadataDiscover.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\bin\Debug\Entity.pdb
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\obj\Debug\IPL.dll
+C:\Users\moc\Desktop\Wakool - Shutdown Apocalypse Beta2\WakoolMVC\IPL\obj\Debug\IPL.pdb

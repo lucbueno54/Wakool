@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Email xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Subject>Wakool Error Message</Subject>
+<EmailDestinatarios>
+<string>lucas.angeli.94@gmail.com</string>
+<string>calielyangcs@gmail.com</string>
+</EmailDestinatarios>
+<DestinatarioAnexo>
+<string>om_02.png</string>
+<string>space-galaxy-wallpaper-HD6.jpg</string>
+</DestinatarioAnexo>
+</Email>

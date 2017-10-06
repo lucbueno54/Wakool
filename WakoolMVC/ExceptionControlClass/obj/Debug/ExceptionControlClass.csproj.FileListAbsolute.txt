@@ -1,0 +1,36 @@
+C:\Users\97235\Desktop\WindowsFormsRevisao\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WindowsFormsRevisao\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WindowsFormsRevisao\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WindowsFormsRevisao\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WindowsFormsRevisao\ExceptionControlClass\obj\Debug\Revisao.Form1.resources
+C:\Users\97235\Desktop\WindowsFormsRevisao\ExceptionControlClass\obj\Debug\ExceptionControlClass.csproj.GenerateResource.Cache
+C:\Users\97235\Desktop\BibliotecaControllerException\ExceptionControlClass\obj\Debug\ExceptionControlClass.csprojResolveAssemblyReference.cache
+C:\Users\97235\Desktop\BibliotecaControllerException\ExceptionControlClass\obj\Debug\Revisao.Form1.resources
+C:\Users\97235\Desktop\BibliotecaControllerException\ExceptionControlClass\obj\Debug\ExceptionControlClass.csproj.GenerateResource.Cache
+C:\Users\97235\Desktop\BibliotecaControllerException\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\BibliotecaControllerException\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.csprojResolveAssemblyReference.cache
+C:\Users\97235\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\97235\Desktop\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\97235\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.csprojResolveAssemblyReference.cache
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+F:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.csprojResolveAssemblyReference.cache
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\lucas bueno\Desktop\Wakool - Apocalypse\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+C:\Users\moc\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+C:\Users\moc\Desktop\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\bin\Debug\ExceptionControlClass.pdb
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.csprojResolveAssemblyReference.cache
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.dll
+E:\Entra21\aula70\WakoolMVC\ExceptionControlClass\obj\Debug\ExceptionControlClass.pdb

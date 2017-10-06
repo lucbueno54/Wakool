@@ -1,0 +1,122 @@
+﻿@model object
+@using MetadataDiscover;
+@{
+    ViewBag.Title = "edit";
+}
+<div class="row">
+
+    <!-- form -->
+   
+
+      
+        <div class="col-lg-12 col-xlg-9 col-md-7">
+            <div class="card">
+                <div class="tab-pane" id="settings" role="tabpanel" aria-expanded="false">
+
+                    <div class="card-block">
+                        <form method="post" class="form-horizontal form-material">
+
+                            @if (Model != null)
+                            {
+                                <input type="hidden" value="@Model.GetType().Name" name="EntityType" />
+                                <h1>Editar @MetadataDiscover.AssemblyUtils.GetEntityDisplayAttribute(Model.GetType())</h1>
+                                foreach (System.Reflection.PropertyInfo property in Model.GetType().GetProperties())
+                                {
+                                    if (property.Name.ToUpper() != "ID")
+                                    {
+                                        string text = MetadataDiscover.AssemblyUtils.GetPropertyDisplay(property);
+
+
+                                        if (property.PropertyType == typeof(string))
+                                        {
+                                            <div class="form-group">
+                                                <label class="col-md-12">@text</label>
+                                                <div class="col-md-12">
+                                                    <input id="@property.Name" name="@property.Name" @property.GetWebMinLength() @property.GetWebPattern() type="@property.GetWebStringType()" @property.GetWebMaxLength() class="form-control form-control-line" value="@property.GetValue(Model)">
+                                                </div>
+                                            </div>
+                                        }
+                                        else
+                                            if (property.PropertyType == typeof(int) || property.PropertyType == typeof(double) || property.PropertyType == typeof(decimal))
+                                            {
+                                                <div class="form-group">
+                                                    <label class="col-md-12">@text</label>
+                                                    <div class="col-md-12">
+                                                        <input name="@property.Name" @property.GetWebPattern() @((property.PropertyType != typeof(int)) ? @"onchange=setTwoNumberDecimal" : "") type="number" step="@(((property.PropertyType == typeof(double) || property.PropertyType == typeof(decimal)) ? 0.1 : 0.0).ToString().Replace(",", "."))" class="form-control form-control-line" value="@(property.GetValue(Model).ToString().Replace(",","."))">
+                                                    </div>
+                                                </div>
+                                            }
+                                            else if (property.PropertyType == typeof(DateTime))
+                                            {
+
+                                                <div class="form-group">
+                                                    <label class="col-md-12">@text</label>
+                                                    <div class="col-md-12">
+                                                        <input name="@property.Name" type="date" @property.GetWebPattern() class="form-control form-control-line" value="@string.Format("{0:yyyy-MM-dd}", (((DateTime)(property.GetValue(Model))).Date))">
+                                                    </div>
+                                                </div>
+                                            }
+                                            else if (property.PropertyType.IsEnum)
+                                            {
+                                                <div class="form-group">
+                                                    <label style="color:transparent"></label>
+                                                    <label class="col-sm-12">@text</label>
+                                                    <div class="col-sm-12">
+                                                        <select name="@property.Name" class="form-control form-control-line" value="@property.GetValue(Model)">
+                                                            @for (int i = 0; i < Enum.GetValues(property.PropertyType).Length; i++)
+                                                            {
+                                                                <option value="@i">@Enum.GetValues(property.PropertyType).GetValue(i)</option>
+                                                            }
+
+                                                        </select>
+
+
+                                                    </div>
+                                                </div>
+                                            }
+                                            else
+                                                if (property.PropertyType == typeof(Boolean))
+                                                {
+                                                    <div class="checkbox checkbox-info">
+
+                                                        <div class="col-md-12">
+                                                            <input name="@property.Name" type="checkbox" class="form-control form-control-line">
+                                                            <label for="inputForward" class="task-done">
+                                                                <span>@MetadataDiscover.AssemblyUtils.GetPropertyDisplay(property)</span>
+
+                                                            </label>
+
+                                                        </div>
+                                                    </div>
+                                                }
+                                    }
+
+                                    else
+                                    {
+                                        <div class="form-group">
+                                            <div class="col-md-12">
+                                                <input name="@property.Name" readonly value="@property.GetValue(Model)" type="hidden" class="form-control form-control-line">
+                                            </div>
+                                        </div>
+                                    }
+
+                                }
+
+
+                            }
+
+
+                            <div class="form-group">
+                                <div class="col-sm-12">
+                                    <button class="btn btn-success">Alterar</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+
+
+                </div>
+                </div>
+
+
+            </div>
